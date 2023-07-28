@@ -1,7 +1,7 @@
 body{
     height: 10vh;
     width: 100%;
-    background-image:url('./IMAGES/bg.jpg');
+    background-image:url(./IMAGES/bg.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
